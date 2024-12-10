@@ -1,0 +1,118 @@
+14:23:38 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:24:10 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:24:21 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:24:51 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:34:09 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-gcc -o "PIN CONFIG.elf" @"objects.list"   -mcpu=cortex-m33 -T"C:\Users\Abin\Desktop\bible\Project_god\PIN CONFIG\PIN CONFIG\STM32H533VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PIN CONFIG.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: PIN CONFIG.elf
+ 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+arm-none-eabi-objdump -h -S PIN\ CONFIG.elf  > "PIN CONFIG.list"
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+Finished building: PIN CONFIG.list
+ 
+14:34:15 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:34:26 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:34:57 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:37:27 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:39:10 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:39:36 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:40:28 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:41:13 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:41:19 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:41:42 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
+14:43:47 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+make -j12 all 
+arm-none-eabi-size  PIN\ CONFIG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  37180	     12	   3988	  41180	   a0dc	PIN CONFIG.elf
+Finished building: default.size.stdout
+ 
