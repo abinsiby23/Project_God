@@ -1,4 +1,4 @@
-14:43:47 **** Incremental Build of configuration Debug for project PIN CONFIG ****
+16:57:44 **** Incremental Build of configuration Debug for project PIN CONFIG ****
 make -j12 all 
 arm-none-eabi-size  PIN\ CONFIG.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size  PIN\ CONFIG.elf
 Finished building: default.size.stdout
  
 
-14:43:48 Build Finished. 0 errors, 0 warnings. (took 521ms)
+16:57:45 Build Finished. 0 errors, 0 warnings. (took 520ms)
 
